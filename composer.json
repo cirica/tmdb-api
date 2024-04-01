@@ -17,7 +17,7 @@
             "dev-master": "4.0-dev"
         }
     },
-    "homepage": "https://github.com/php-tmdb/api",
+    "homepage": "https://github.com/cirica/tmdb-api/",
     "keywords": [
         "tmdb",
         "api",
